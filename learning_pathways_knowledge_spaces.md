@@ -13,15 +13,39 @@ In the current working environment, Lifelong Learning is no longer merely a  des
 
 In contrast with massified education, Personalized Lifelong Education proposes a different approach altogether: Learning should focus with content and applications that are specifically tailored to individual students, thus addressing not only the content area that might be of interest to them, but also adapting to their specific expertise levels as well as the specific applications they intend to address. This concept is thus much closer to the idea of personal coaching, although when Personalized Lifelong Education is conducted within an online environment these processes require a much higher degree of scalability.
 
-While the concept of highly scalable personalized education is attractive, its implementation in online environments is still in its infancy, with two complimenting but often isolated concepts: Item Response Theory-based Computerized Adaptive Tests (CAT) and Knowledge Spaces. Item Response Theory is a methodology that allows for individual questions (items) to be associated with a certain knowledge level. This methodology then allows for educational assessment to be delivered through adaptive tests, which will ensure that students are presented with questions that are specific to their knowledge levels for a certain domain. The second methodology, Knowledge
+While the concept of highly scalable personalized education is attractive, its implementation in online environments is still in its infancy, with two complimenting but often isolated concepts: Item Response Theory-based Computerized Adaptive Tests (CAT) and Knowledge Spaces. Item Response Theory is a methodology that allows for individual questions (items) to be associated with a certain knowledge level. This methodology then allows for educational assessment to be delivered through adaptive tests, which will ensure that students are presented with questions that are specific to their knowledge levels for a certain domain. The second methodology, Knowledge Spaces <!-- will add later after I read the papers -->
 
-The objective of this
+The objective of this study is therefore to combine Item Response Theory-based Computerized Adaptive Tests and Knowledge Spaces to generate a Personalized Lifelong Learning environment, using the 2008 [Adult Literacy and Life Skills Survey](https://drive.google.com/?usp=chrome_app#folders/0B4Ke-17mTW1_bTJCY09nVFBpRjQ) to populate and validate our model.
 
 ## Methods
 
 ### Database description
 We made use of the 2008 [Adult Literacy and Life Skills Survey](https://drive.google.com/?usp=chrome_app#folders/0B4Ke-17mTW1_bTJCY09nVFBpRjQ) (ALL) to model
 
+### Item Response Theory and Computerized Adaptive Tests
+
+
+### Knowledge Spaces
+
+<!-- Elvano, por favor insere aqui todos os links pros pacotes e artigos que a gente ficou circulando por g+ e email -->
+
+## Results
 
 
 ## Discussion
+
+
+## References
+
+
+<!-- 
+@Manual{,Rcite
+    title = {R: A Language and Environment for Statistical Computing},
+    author = {{R Core Team}},
+    organization = {R Foundation for Statistical Computing},
+    address = {Vienna, Austria},
+    year = {2014},
+    url = {http://www.R-project.org/},
+  }
+
+ -->
