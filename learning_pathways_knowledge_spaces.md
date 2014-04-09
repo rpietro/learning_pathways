@@ -39,7 +39,7 @@ We made use of the 2008 [Adult Literacy and Life Skills Survey](https://drive.go
 
 
 <!-- 
-@Manual{,Rcite
+@Manual{Rcite,
     title = {R: A Language and Environment for Statistical Computing},
     author = {{R Core Team}},
     organization = {R Foundation for Statistical Computing},
